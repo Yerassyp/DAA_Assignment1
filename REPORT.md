@@ -1,5 +1,12 @@
 # Design and Analysis of Algorithms - Assignment 1 Report
 
+* **Student:** Yerassyl Irangait (Group SE-2523)
+* **GitHub Repository:** https://github.com/Yerassyp/DAA_Assignment1
+* **Target Branch:** `main`
+* **Release Tag:** `v1.0`
+
+---
+
 ## 1. Asymptotic Bounds
 
 | Algorithm | Best Case | Average Case | Worst Case | Reason |
