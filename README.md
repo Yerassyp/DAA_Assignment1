@@ -1,4 +1,6 @@
 # Divide and Conquer & Asymptotic Notations
+* **Student:** Yerassyl Irangait (SE-2523)
+* **Repository:** https://github.com/Yerassyp/DAA_Assignment1 (Tag: v1.0)
 
 This project implement and analyze Divide-and-Conquer algorithms: MergeSort, QuickSort, QuickSelect and Deterministic Select (Median-of-Medians) in Java 17.
 
